@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{6A3B237B-7965-4285-8A7B-DEFD98CEF89C}|Calculator\\Calculator.vcxproj|solutionrelative:Calculator\\Calculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A3B237B-7965-4285-8A7B-DEFD98CEF89C}|Calculator\\Calculator.vcxproj|C:\\Games\\Prodgect\\Calculator\\Calculator\\math_functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6A3B237B-7965-4285-8A7B-DEFD98CEF89C}|Calculator\\Calculator.vcxproj|solutionrelative:Calculator\\math_functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6A3B237B-7965-4285-8A7B-DEFD98CEF89C}|Calculator\\Calculator.vcxproj|C:\\Games\\Prodgect\\Calculator\\Calculator\\math_functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6A3B237B-7965-4285-8A7B-DEFD98CEF89C}|Calculator\\Calculator.vcxproj|solutionrelative:Calculator\\math_functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3B237B-7965-4285-8A7B-DEFD98CEF89C}|Calculator\\Calculator.vcxproj|C:\\Games\\Prodgect\\Calculator\\Calculator\\math_functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A3B237B-7965-4285-8A7B-DEFD98CEF89C}|Calculator\\Calculator.vcxproj|solutionrelative:Calculator\\math_functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "math_functions.cpp",
               "DocumentMoniker": "C:\\Games\\Prodgect\\Calculator\\Calculator\\math_functions.cpp",
               "RelativeDocumentMoniker": "Calculator\\math_functions.cpp",
@@ -52,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "math_functions.h",
               "DocumentMoniker": "C:\\Games\\Prodgect\\Calculator\\Calculator\\math_functions.h",
               "RelativeDocumentMoniker": "Calculator\\math_functions.h",
